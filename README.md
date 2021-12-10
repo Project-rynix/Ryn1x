@@ -18,10 +18,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 - Mask URL support 
 - Beginners friendly
 - Docker support (checkout `docker-legacy` branch)
-- Multiple tunneling options
-  - Localhost
-  - Ngrok (With or without hotspot)
-  - Cloudflared (Alternative of Ngrok)
+- no ngrok
 
 
 ### Installation
