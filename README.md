@@ -10,17 +10,25 @@
 
 It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
 
-##
+## Required to run
+ - WSl 
+ - kali linux
+ - ubuntu
+ - linode cloud service
 
 ### Features
-
 - Latest and updated login pages.
-- Mask URL support 
+- Mask URL information (private)
 - Beginners friendly
 - no ngrok
 
 
 ### Installation
+- install with wsl (open power shell run as admin) -
+```
+$ wsl --install
+$ reboot system
+```
 
 - Just, Clone this repository -
 ```
