@@ -17,7 +17,6 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 - Latest and updated login pages.
 - Mask URL support 
 - Beginners friendly
-- Docker support (checkout `docker-legacy` branch)
 - no ngrok
 
 
@@ -44,22 +43,6 @@ $ ./Ryn1x.sh
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
-
-> Supported Platform :
->  **`Termux`**,
->   **`Ubuntu/Debian/Kali/Parrot`**, 
->   **`Arch Linux/Manjaro`**,
->    **`Fedora`**
-
-##
-
-<h3 align="center">
-:: Workflow ::
-</h3>
-<p align="center">
-<img src=".imgs/wf.gif"/>
-</p>
 
 
 
